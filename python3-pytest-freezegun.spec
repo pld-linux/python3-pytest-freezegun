@@ -6,7 +6,7 @@ Summary:	Wrap tests with fixtures in freeze_time
 Summary(pl.UTF-8):	Obudowywanie testów z wyposażeniem w zamrożonym czasie
 Name:		python3-pytest-freezegun
 Version:	0.4.2
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/pytest-freezegun/
